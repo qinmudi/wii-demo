@@ -1,6 +1,6 @@
 {
   "name": "wii-2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "wii-1": "^0.0.1"
+    "wii-1": "^0.0.2"
   }
 }
