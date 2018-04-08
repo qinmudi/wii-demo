@@ -1,1 +1,1 @@
-export default require('./package.json').name
+export default require('./package.json').name + 'ko'
