@@ -1,3 +1,3 @@
 export default 
   require('./package.json').name 
-  + 'depends on [' + require('module-0').default + ']' + 'updated' + 'ok2'
+  + 'depends on [' + require('module-0').default + ']' + 'updated' + 'ok3'
