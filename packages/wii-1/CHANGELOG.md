@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="0.0.23"></a>
+## <small>0.0.23 (2018-04-13)</small>
+
+
+
+
+
+**Note:** Version bump only for package @wii/wii-1
+
 <a name="0.0.21"></a>
 ## <small>0.0.21 (2018-04-13)</small>
 
