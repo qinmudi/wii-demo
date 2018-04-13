@@ -1,6 +1,6 @@
 {
   "name": "wiitest/wii-2",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "wiitest/wii-1": "^0.0.12"
+    "wiitest/wii-1": "^0.0.13"
   }
 }
